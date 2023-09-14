@@ -1,0 +1,3 @@
+*/**/*
+!src/main/wlp/*
+!target/*.war
