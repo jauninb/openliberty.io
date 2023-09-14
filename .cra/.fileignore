@@ -1,3 +1,5 @@
 # Exclude all the Dockerfile files from scanning - except the one at the root
 **/*/Dockerfile
 !./Dockerfile
+**/*/pom.xml
+!./pom.xml
