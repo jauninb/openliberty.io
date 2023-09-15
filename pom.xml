@@ -93,7 +93,7 @@
 						<webResources>
 							<resource>
 								<!-- this is relative to the pom.xml directory -->
-								<directory>target/jekyll-webapp</directory>
+								<directory>./target/jekyll-webapp</directory>
 							</resource>
 						</webResources>
 					</configuration>
